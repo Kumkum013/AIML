@@ -1,15 +1,14 @@
 # 🧠 AI & Machine Learning Learning Journey
 
 Welcome to my **AI/ML Learning Repository**!  
-This repo tracks my progress as I learn **Artificial Intelligence and Machine Learning** through **Udemy** and other free online resources.
+This repo tracks my progress as I learn **Artificial Intelligence and Machine Learning** through **Udemy** 
 
 
 ## 📚 Contents
-- Notes and summaries of each concept
-- Python practice notebooks
+- Python  basic questions practice 
 - Mini-projects and case studies
 - Datasets used for experiments
-- Assignments and quiz solutions
+
 
 ---
 
